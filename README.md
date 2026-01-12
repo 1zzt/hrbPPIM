@@ -14,7 +14,7 @@ An end-to-end deep learning approach that introduces three key inductive biases 
 
 ## Pepline
 ### 1. Graph construction
-1\) Run `get_comp_graphs.py` to extract protein complex interfaces. Then run `de.py` to construct graph representations and save them as .npy files.
+1\) Run `get_comp_graphs.py` to extract protein complex interfaces. Then run `de.py` to construct graph representations and save them as .npy files.<br>
 2\) Run `get_protein_graphs.py` to construct compound graph representations and save them as .npy files.
 ### 2. PPI energy calculation
 Run `get_ppi_energy.py` to extract protein interaction energy. The input consists of two protein interfaces, and the output is saved in an `.npy` file.
