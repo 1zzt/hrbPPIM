@@ -4,8 +4,8 @@ Here we present hrbPPIM, an end-to-end deep learning approach that introduces th
 ![image](https://github.com/1zzt/hrbPPIM/raw/main/Overview.png)
 
 ##  Data preparation:
--Experimentally validated PPI-modulator interaction pairs in the benchmark dataset: https://2p2idb.marseille.inserm.fr/index.html;
--Details of the 1755 processed interaction entries are available at /Data/info.
+--Experimentally validated PPI-modulator interaction pairs in the benchmark dataset: https://2p2idb.marseille.inserm.fr/index.html;
+--Details of the 1755 processed interaction entries are available at /Data/info.
 -DLiP-KF dataset: https://github.com/1zzt/hrbPPIM;
 -Decoy compounds in virtual screening datasets: https://zinc15.docking.org/;
 -SARS-CoV-2 assays data: https://opendata.ncats.nih.gov/covid19/assays;
