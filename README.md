@@ -1,5 +1,5 @@
 # hrbPPIM
-Here we present hrbPPIM, an end-to-end deep learning approach that introduces three key inductive biases of the PPI modulatory system: geometric invariance, hierarchical representation, and interaction-aware modeling. By encoding PPI complexes with rigid-body invariant embeddings, dynamically clustering atoms into chemically meaningful substructures, and injecting physicochemical priors into attention-based cross-entity modeling, hrbPPIM constrains the hypothesis space to biologically plausible interaction mechanisms.
+An end-to-end deep learning approach that introduces three key inductive biases of the PPI modulatory system: geometric invariance, hierarchical representation, and interaction-aware modeling. By encoding PPI complexes with rigid-body invariant embeddings, dynamically clustering atoms into chemically meaningful substructures, and injecting physicochemical priors into attention-based cross-entity modeling, hrbPPIM constrains the hypothesis space to biologically plausible interaction mechanisms.
 
 ![image](https://github.com/1zzt/hrbPPIM/raw/main/Overview.png)
 
