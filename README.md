@@ -5,7 +5,7 @@ An end-to-end deep learning approach that introduces three key inductive biases 
 
 ##  Data preparation:
  - Experimentally validated PPI-modulator interaction pairs in the benchmark dataset: https://2p2idb.marseille.inserm.fr/index.html;
- - Details of the 1755 processed interaction entries are available at /Data/pos_2p2i.csv;
+ - Details of the 1755 processed interaction entries retrieved from 2P2I-DB are available at `/Data/pos_2p2i.csv`;
  - DLiP-KF dataset: https://github.com/1zzt/KFPPIMI;
  - Decoy compounds in virtual screening datasets: https://zinc15.docking.org/;
  - SARS-CoV-2 assays data: https://opendata.ncats.nih.gov/covid19/assays;
